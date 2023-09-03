@@ -5,6 +5,12 @@
 
 ![](https://github.com/FelipeRotermel/ReadmeGif/blob/main/bloons.gif)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,js,css" />
+  </a>
+</p>
+
 <h2></h2>
 
 <h3 align="center">Contacts:</h3>
