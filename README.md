@@ -3,7 +3,7 @@
 
 <h2 align="center">I'm currently using:</h2>
 
-![](https://github.com/FelipeRotermel/ReadmeGif/blob/main/bloons.gif)
+![](https://github.com/FelipeRotermel/ReadmeGif/blob/main/bloonsgif.gif)
 
 <p align="center">
   <a href="https://skillicons.dev">
