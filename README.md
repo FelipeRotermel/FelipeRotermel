@@ -3,8 +3,6 @@
 
 <h2 align="center">I'm currently using:</h2>
 
-![](https://github.com/FelipeRotermel/ReadmeGif/blob/main/bloonsgif.gif)
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,html,js,css,bootstrap,vue,python,react,django,mysql" />
