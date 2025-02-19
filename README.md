@@ -1,5 +1,6 @@
 <h1 align="center">Hello, I'm Felipe</h1>
-<h5 align="center">I graduated from IFC Campus Araquari, with a specialization in Internet Computing, I am currently studying ADS and I work at SoftExpert as a software developer.</h5>
+<h5 align="center">I graduated from IFC Campus Araquari, with a specialization in Internet Computing.</h5>
+<h6 align="center">I'm currently studying ADS and I work at SoftExpert as a software developer.</h6>
 
 <h2 align="center">I'm currently using:</h2>
 
