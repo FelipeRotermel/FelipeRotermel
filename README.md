@@ -1,11 +1,11 @@
 <h1 align="center">Hello, I'm Felipe</h1>
-<h5 align="center">Studied at IFC Campus Araquari, specializing in Internet Computing, using several markup and programming languages</h5>
+<h5 align="center">I graduated from IFC Campus Araquari, with a specialization in Internet Computing, I am currently studying ADS and I work at SoftExpert as a software developer.</h5>
 
 <h2 align="center">I'm currently using:</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,html,js,css,bootstrap,vue,python,react,django,mysql" />
+    <img src="https://skillicons.dev/icons?i=vscode,react,postgresql,php" />
   </a>
 </p>
 
