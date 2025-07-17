@@ -1,8 +1,8 @@
 <h1 >Hello, I'm Felipe</h1>
 <h5>Graduated from IFC Campus Araquari, with a specialization in Internet Computing</h5>
-<h6>I am currently studying Systems Analysis and Development and working at SoftExpert as a software engineer</h6>
+<h6>I'm currently studying Systems Analysis and Development and working at SoftExpert as a Software engineer</h6>
 
-<h2>I'm currently using:</h2>
+<h2>Currently using:</h2>
 
 <p>
   <a href="https://skillicons.dev">
